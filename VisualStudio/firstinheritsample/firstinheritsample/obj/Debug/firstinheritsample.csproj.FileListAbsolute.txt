@@ -1,0 +1,7 @@
+C:\VisualStudio\firstinheritsample\firstinheritsample\bin\Debug\firstinheritsample.exe.config
+C:\VisualStudio\firstinheritsample\firstinheritsample\bin\Debug\firstinheritsample.exe
+C:\VisualStudio\firstinheritsample\firstinheritsample\bin\Debug\firstinheritsample.pdb
+C:\VisualStudio\firstinheritsample\firstinheritsample\obj\Debug\firstinheritsample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\firstinheritsample\firstinheritsample\obj\Debug\firstinheritsample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\firstinheritsample\firstinheritsample\obj\Debug\firstinheritsample.exe
+C:\VisualStudio\firstinheritsample\firstinheritsample\obj\Debug\firstinheritsample.pdb

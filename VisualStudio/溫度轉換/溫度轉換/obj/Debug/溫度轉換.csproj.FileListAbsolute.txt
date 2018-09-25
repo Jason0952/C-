@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\bin\Debug\溫度轉換.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\bin\Debug\溫度轉換.exe
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\bin\Debug\溫度轉換.pdb
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\obj\Debug\溫度轉換.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\obj\Debug\溫度轉換.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\obj\Debug\溫度轉換.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\obj\Debug\溫度轉換.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\obj\Debug\溫度轉換.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\obj\Debug\溫度轉換.exe
+c:\users\pc\documents\visual studio 2017\Projects\溫度轉換\溫度轉換\obj\Debug\溫度轉換.pdb

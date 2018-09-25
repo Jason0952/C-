@@ -1,0 +1,12 @@
+C:\VisualStudio\JSONSample\JSONSample\bin\Debug\JSONSample.exe.config
+C:\VisualStudio\JSONSample\JSONSample\bin\Debug\JSONSample.exe
+C:\VisualStudio\JSONSample\JSONSample\bin\Debug\JSONSample.pdb
+C:\VisualStudio\JSONSample\JSONSample\bin\Debug\Newtonsoft.Json.dll
+C:\VisualStudio\JSONSample\JSONSample\bin\Debug\Newtonsoft.Json.xml
+C:\VisualStudio\JSONSample\JSONSample\obj\Debug\JSONSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\JSONSample\JSONSample\obj\Debug\JSONSample.Form1.resources
+C:\VisualStudio\JSONSample\JSONSample\obj\Debug\JSONSample.Properties.Resources.resources
+C:\VisualStudio\JSONSample\JSONSample\obj\Debug\JSONSample.csproj.GenerateResource.Cache
+C:\VisualStudio\JSONSample\JSONSample\obj\Debug\JSONSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\JSONSample\JSONSample\obj\Debug\JSONSample.exe
+C:\VisualStudio\JSONSample\JSONSample\obj\Debug\JSONSample.pdb

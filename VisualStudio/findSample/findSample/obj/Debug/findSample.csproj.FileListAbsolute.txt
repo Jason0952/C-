@@ -1,0 +1,10 @@
+C:\VisualStudio\findSample\findSample\obj\Debug\findSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\findSample\findSample\obj\Debug\findSample.Form1.resources
+C:\VisualStudio\findSample\findSample\obj\Debug\findSample.Properties.Resources.resources
+C:\VisualStudio\findSample\findSample\obj\Debug\findSample.csproj.GenerateResource.Cache
+C:\VisualStudio\findSample\findSample\obj\Debug\findSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\findSample\findSample\bin\Debug\findSample.exe.config
+C:\VisualStudio\findSample\findSample\bin\Debug\findSample.exe
+C:\VisualStudio\findSample\findSample\bin\Debug\findSample.pdb
+C:\VisualStudio\findSample\findSample\obj\Debug\findSample.exe
+C:\VisualStudio\findSample\findSample\obj\Debug\findSample.pdb

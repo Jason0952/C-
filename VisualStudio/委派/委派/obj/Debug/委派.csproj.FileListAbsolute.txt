@@ -1,0 +1,7 @@
+C:\VisualStudio\委派\委派\bin\Debug\委派.exe.config
+C:\VisualStudio\委派\委派\bin\Debug\委派.exe
+C:\VisualStudio\委派\委派\bin\Debug\委派.pdb
+C:\VisualStudio\委派\委派\obj\Debug\委派.csprojResolveAssemblyReference.cache
+C:\VisualStudio\委派\委派\obj\Debug\委派.csproj.CoreCompileInputs.cache
+C:\VisualStudio\委派\委派\obj\Debug\委派.exe
+C:\VisualStudio\委派\委派\obj\Debug\委派.pdb

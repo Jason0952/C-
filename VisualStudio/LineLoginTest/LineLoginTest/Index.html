@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function MicrosoftCode() {
+            var URL = 'https://login.microsoftonline.com/common/oauth2/v2.0/authorize?';
+            URL += 'response_type=code';
+            URL += '&client_id=4f8961e9-ebec-46d7-8fde-7a4ea6680bae';  //client_id
+            URL += '&redirect_uri=http://localhost:61712/index.html'; //callback url
+            URL += '&scope=openid https://graph.microsoft.com/user.read'
+            URL += '&response_mode=query';
+            URL += '&state=12345';
+            URL += '&none=6789';
+            //導引到Login
+            window.location.href = URL;
+        }
+
+        function MicrosoftToken() {
+            var URL = 'https://graph.microsoft.com/beta/me';
+
+        }
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <button onclick="MicrosoftCode();">點選這裡連結到MincrosoftLogin</button>
+    <p id="Myprofile"></p>
+    <script>
+
+    </script>
+</body>
+<script>
+    var urlstring = Request.Querystring["code"];
+
+    document.write("使用者名稱:", urlstring);
+</script>
+</html>

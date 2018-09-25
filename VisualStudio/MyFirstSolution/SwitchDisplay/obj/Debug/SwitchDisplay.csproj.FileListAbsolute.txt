@@ -1,0 +1,7 @@
+C:\VisualStudio\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.csprojResolveAssemblyReference.cache
+C:\VisualStudio\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MyFirstSolution\SwitchDisplay\bin\Debug\SwitchDisplay.exe.config
+C:\VisualStudio\MyFirstSolution\SwitchDisplay\bin\Debug\SwitchDisplay.exe
+C:\VisualStudio\MyFirstSolution\SwitchDisplay\bin\Debug\SwitchDisplay.pdb
+C:\VisualStudio\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.exe
+C:\VisualStudio\MyFirstSolution\SwitchDisplay\obj\Debug\SwitchDisplay.pdb

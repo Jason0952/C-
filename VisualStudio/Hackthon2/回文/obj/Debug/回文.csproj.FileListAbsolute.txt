@@ -1,0 +1,7 @@
+C:\VisualStudio\Hackthon2\回文\bin\Debug\回文.exe.config
+C:\VisualStudio\Hackthon2\回文\bin\Debug\回文.exe
+C:\VisualStudio\Hackthon2\回文\bin\Debug\回文.pdb
+C:\VisualStudio\Hackthon2\回文\obj\Debug\回文.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Hackthon2\回文\obj\Debug\回文.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Hackthon2\回文\obj\Debug\回文.exe
+C:\VisualStudio\Hackthon2\回文\obj\Debug\回文.pdb

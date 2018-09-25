@@ -1,0 +1,7 @@
+C:\VisualStudio\unionSample\ThenBySample\obj\Debug\ThenBySample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\unionSample\ThenBySample\obj\Debug\ThenBySample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\ThenBySample\bin\Debug\ThenBySample.exe.config
+C:\VisualStudio\unionSample\ThenBySample\bin\Debug\ThenBySample.exe
+C:\VisualStudio\unionSample\ThenBySample\bin\Debug\ThenBySample.pdb
+C:\VisualStudio\unionSample\ThenBySample\obj\Debug\ThenBySample.exe
+C:\VisualStudio\unionSample\ThenBySample\obj\Debug\ThenBySample.pdb

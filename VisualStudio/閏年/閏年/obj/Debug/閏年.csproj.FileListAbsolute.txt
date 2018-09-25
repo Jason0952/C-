@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\閏年\閏年\bin\Debug\閏年.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\閏年\閏年\bin\Debug\閏年.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\閏年\閏年\bin\Debug\閏年.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\閏年\閏年\obj\Debug\閏年.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\閏年\閏年\obj\Debug\閏年.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\閏年\閏年\obj\Debug\閏年.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\閏年\閏年\obj\Debug\閏年.pdb
+C:\VisualStudio\閏年\閏年\bin\Debug\閏年.exe.config
+C:\VisualStudio\閏年\閏年\bin\Debug\閏年.exe
+C:\VisualStudio\閏年\閏年\bin\Debug\閏年.pdb
+C:\VisualStudio\閏年\閏年\obj\Debug\閏年.csprojResolveAssemblyReference.cache
+C:\VisualStudio\閏年\閏年\obj\Debug\閏年.csproj.CoreCompileInputs.cache
+C:\VisualStudio\閏年\閏年\obj\Debug\閏年.exe
+C:\VisualStudio\閏年\閏年\obj\Debug\閏年.pdb

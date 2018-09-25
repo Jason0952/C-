@@ -1,0 +1,13 @@
+C:\VisualStudio\銷售業績\銷售業績\bin\Debug\銷售業績.exe.config
+C:\VisualStudio\銷售業績\銷售業績\bin\Debug\銷售業績.exe
+C:\VisualStudio\銷售業績\銷售業績\bin\Debug\銷售業績.pdb
+C:\VisualStudio\銷售業績\銷售業績\bin\Debug\Newtonsoft.Json.dll
+C:\VisualStudio\銷售業績\銷售業績\bin\Debug\Newtonsoft.Json.xml
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.csprojAssemblyReference.cache
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.Form1.resources
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.Properties.Resources.resources
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.csproj.GenerateResource.cache
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.csproj.CoreCompileInputs.cache
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.csproj.CopyComplete
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.exe
+C:\VisualStudio\銷售業績\銷售業績\obj\Debug\銷售業績.pdb

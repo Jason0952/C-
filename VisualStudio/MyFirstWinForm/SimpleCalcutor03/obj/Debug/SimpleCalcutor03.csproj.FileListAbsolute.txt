@@ -1,0 +1,9 @@
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\obj\Debug\SimpleCalcutor03.Form1.resources
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\obj\Debug\SimpleCalcutor03.Properties.Resources.resources
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\obj\Debug\SimpleCalcutor03.csproj.GenerateResource.Cache
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\obj\Debug\SimpleCalcutor03.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\bin\Debug\SimpleCalcutor03.exe.config
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\bin\Debug\SimpleCalcutor03.exe
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\bin\Debug\SimpleCalcutor03.pdb
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\obj\Debug\SimpleCalcutor03.exe
+C:\VisualStudio\MyFirstWinForm\SimpleCalcutor03\obj\Debug\SimpleCalcutor03.pdb

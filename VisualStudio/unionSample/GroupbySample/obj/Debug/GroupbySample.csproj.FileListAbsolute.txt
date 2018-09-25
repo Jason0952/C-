@@ -1,0 +1,7 @@
+C:\VisualStudio\unionSample\GroupbySample\obj\Debug\GroupbySample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\unionSample\GroupbySample\obj\Debug\GroupbySample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\GroupbySample\bin\Debug\GroupbySample.exe.config
+C:\VisualStudio\unionSample\GroupbySample\bin\Debug\GroupbySample.exe
+C:\VisualStudio\unionSample\GroupbySample\bin\Debug\GroupbySample.pdb
+C:\VisualStudio\unionSample\GroupbySample\obj\Debug\GroupbySample.exe
+C:\VisualStudio\unionSample\GroupbySample\obj\Debug\GroupbySample.pdb

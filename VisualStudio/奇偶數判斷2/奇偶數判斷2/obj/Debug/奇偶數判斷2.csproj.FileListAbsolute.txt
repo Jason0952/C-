@@ -1,0 +1,7 @@
+C:\VisualStudio\奇偶數判斷2\奇偶數判斷2\bin\Debug\奇偶數判斷2.exe.config
+C:\VisualStudio\奇偶數判斷2\奇偶數判斷2\bin\Debug\奇偶數判斷2.exe
+C:\VisualStudio\奇偶數判斷2\奇偶數判斷2\bin\Debug\奇偶數判斷2.pdb
+C:\VisualStudio\奇偶數判斷2\奇偶數判斷2\obj\Debug\奇偶數判斷2.csprojResolveAssemblyReference.cache
+C:\VisualStudio\奇偶數判斷2\奇偶數判斷2\obj\Debug\奇偶數判斷2.csproj.CoreCompileInputs.cache
+C:\VisualStudio\奇偶數判斷2\奇偶數判斷2\obj\Debug\奇偶數判斷2.exe
+C:\VisualStudio\奇偶數判斷2\奇偶數判斷2\obj\Debug\奇偶數判斷2.pdb

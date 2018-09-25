@@ -1,0 +1,6 @@
+C:\VisualStudio\varSample\nullApp1\bin\Debug\nullApp1.exe.config
+C:\VisualStudio\varSample\nullApp1\bin\Debug\nullApp1.exe
+C:\VisualStudio\varSample\nullApp1\bin\Debug\nullApp1.pdb
+C:\VisualStudio\varSample\nullApp1\obj\Debug\nullApp1.csproj.CoreCompileInputs.cache
+C:\VisualStudio\varSample\nullApp1\obj\Debug\nullApp1.exe
+C:\VisualStudio\varSample\nullApp1\obj\Debug\nullApp1.pdb

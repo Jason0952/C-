@@ -1,0 +1,7 @@
+C:\VisualStudio\attribute\attribute\bin\Debug\attribute.exe.config
+C:\VisualStudio\attribute\attribute\bin\Debug\attribute.exe
+C:\VisualStudio\attribute\attribute\bin\Debug\attribute.pdb
+C:\VisualStudio\attribute\attribute\obj\Debug\attribute.csprojResolveAssemblyReference.cache
+C:\VisualStudio\attribute\attribute\obj\Debug\attribute.csproj.CoreCompileInputs.cache
+C:\VisualStudio\attribute\attribute\obj\Debug\attribute.exe
+C:\VisualStudio\attribute\attribute\obj\Debug\attribute.pdb

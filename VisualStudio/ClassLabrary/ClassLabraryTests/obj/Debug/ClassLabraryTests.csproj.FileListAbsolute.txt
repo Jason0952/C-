@@ -1,0 +1,2 @@
+C:\VisualStudio\ClassLabrary\ClassLabraryTests\obj\Debug\ClassLabraryTests.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ClassLabrary\ClassLabraryTests\obj\Debug\ClassLabraryTests.csproj.CoreCompileInputs.cache

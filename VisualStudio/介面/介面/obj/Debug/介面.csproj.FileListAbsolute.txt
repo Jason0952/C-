@@ -1,0 +1,7 @@
+C:\VisualStudio\介面\介面\bin\Debug\介面.exe.config
+C:\VisualStudio\介面\介面\bin\Debug\介面.exe
+C:\VisualStudio\介面\介面\bin\Debug\介面.pdb
+C:\VisualStudio\介面\介面\obj\Debug\介面.csprojResolveAssemblyReference.cache
+C:\VisualStudio\介面\介面\obj\Debug\介面.csproj.CoreCompileInputs.cache
+C:\VisualStudio\介面\介面\obj\Debug\介面.exe
+C:\VisualStudio\介面\介面\obj\Debug\介面.pdb

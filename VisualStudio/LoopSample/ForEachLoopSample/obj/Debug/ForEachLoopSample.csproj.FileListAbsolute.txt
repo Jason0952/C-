@@ -1,0 +1,6 @@
+C:\VisualStudio\LoopSample\ForEachLoopSample\bin\Debug\ForEachLoopSample.exe.config
+C:\VisualStudio\LoopSample\ForEachLoopSample\bin\Debug\ForEachLoopSample.exe
+C:\VisualStudio\LoopSample\ForEachLoopSample\bin\Debug\ForEachLoopSample.pdb
+C:\VisualStudio\LoopSample\ForEachLoopSample\obj\Debug\ForEachLoopSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\LoopSample\ForEachLoopSample\obj\Debug\ForEachLoopSample.exe
+C:\VisualStudio\LoopSample\ForEachLoopSample\obj\Debug\ForEachLoopSample.pdb

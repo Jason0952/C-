@@ -1,0 +1,6 @@
+C:\VisualStudio\unionSample\distinctSample\bin\Debug\distinctSample.exe.config
+C:\VisualStudio\unionSample\distinctSample\bin\Debug\distinctSample.exe
+C:\VisualStudio\unionSample\distinctSample\bin\Debug\distinctSample.pdb
+C:\VisualStudio\unionSample\distinctSample\obj\Debug\distinctSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\distinctSample\obj\Debug\distinctSample.exe
+C:\VisualStudio\unionSample\distinctSample\obj\Debug\distinctSample.pdb

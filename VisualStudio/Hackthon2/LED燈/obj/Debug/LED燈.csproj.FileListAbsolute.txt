@@ -1,0 +1,7 @@
+C:\VisualStudio\Hackthon2\LED燈\bin\Debug\LED燈.exe.config
+C:\VisualStudio\Hackthon2\LED燈\bin\Debug\LED燈.exe
+C:\VisualStudio\Hackthon2\LED燈\bin\Debug\LED燈.pdb
+C:\VisualStudio\Hackthon2\LED燈\obj\Debug\LED燈.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Hackthon2\LED燈\obj\Debug\LED燈.exe
+C:\VisualStudio\Hackthon2\LED燈\obj\Debug\LED燈.pdb
+C:\VisualStudio\Hackthon2\LED燈\obj\Debug\LED燈.csprojAssemblyReference.cache

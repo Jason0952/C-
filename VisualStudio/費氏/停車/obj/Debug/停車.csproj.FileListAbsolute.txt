@@ -1,0 +1,10 @@
+C:\VisualStudio\費氏\停車\bin\Debug\停車.exe.config
+C:\VisualStudio\費氏\停車\bin\Debug\停車.exe
+C:\VisualStudio\費氏\停車\bin\Debug\停車.pdb
+C:\VisualStudio\費氏\停車\obj\Debug\停車.csprojResolveAssemblyReference.cache
+C:\VisualStudio\費氏\停車\obj\Debug\停車.Form1.resources
+C:\VisualStudio\費氏\停車\obj\Debug\停車.Properties.Resources.resources
+C:\VisualStudio\費氏\停車\obj\Debug\停車.csproj.GenerateResource.cache
+C:\VisualStudio\費氏\停車\obj\Debug\停車.csproj.CoreCompileInputs.cache
+C:\VisualStudio\費氏\停車\obj\Debug\停車.exe
+C:\VisualStudio\費氏\停車\obj\Debug\停車.pdb

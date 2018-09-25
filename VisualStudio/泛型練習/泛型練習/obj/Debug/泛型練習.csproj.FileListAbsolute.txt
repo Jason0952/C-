@@ -1,0 +1,7 @@
+C:\VisualStudio\泛型練習\泛型練習\bin\Debug\泛型練習.exe.config
+C:\VisualStudio\泛型練習\泛型練習\bin\Debug\泛型練習.exe
+C:\VisualStudio\泛型練習\泛型練習\bin\Debug\泛型練習.pdb
+C:\VisualStudio\泛型練習\泛型練習\obj\Debug\泛型練習.csprojResolveAssemblyReference.cache
+C:\VisualStudio\泛型練習\泛型練習\obj\Debug\泛型練習.csproj.CoreCompileInputs.cache
+C:\VisualStudio\泛型練習\泛型練習\obj\Debug\泛型練習.exe
+C:\VisualStudio\泛型練習\泛型練習\obj\Debug\泛型練習.pdb

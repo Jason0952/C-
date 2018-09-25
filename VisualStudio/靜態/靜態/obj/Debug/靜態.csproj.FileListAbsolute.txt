@@ -1,0 +1,7 @@
+C:\VisualStudio\靜態\靜態\bin\Debug\靜態.exe.config
+C:\VisualStudio\靜態\靜態\bin\Debug\靜態.exe
+C:\VisualStudio\靜態\靜態\bin\Debug\靜態.pdb
+C:\VisualStudio\靜態\靜態\obj\Debug\靜態.csprojResolveAssemblyReference.cache
+C:\VisualStudio\靜態\靜態\obj\Debug\靜態.csproj.CoreCompileInputs.cache
+C:\VisualStudio\靜態\靜態\obj\Debug\靜態.exe
+C:\VisualStudio\靜態\靜態\obj\Debug\靜態.pdb

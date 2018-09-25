@@ -1,0 +1,11 @@
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\bin\Debug\ClassLabraryTests1.dll
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\bin\Debug\ClassLabraryTests1.pdb
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\bin\Debug\ClassLabrary.dll
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\bin\Debug\ClassLabrary.pdb
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\obj\Debug\ClassLabraryTests1.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\obj\Debug\ClassLabraryTests1.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\obj\Debug\ClassLabraryTests1.csproj.CopyComplete
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\obj\Debug\ClassLabraryTests1.dll
+C:\VisualStudio\ClassLabrary\ClassLabraryTests1\obj\Debug\ClassLabraryTests1.pdb

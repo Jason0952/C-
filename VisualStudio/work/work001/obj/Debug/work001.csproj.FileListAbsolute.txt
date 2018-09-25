@@ -1,0 +1,7 @@
+C:\VisualStudio\work\work001\bin\Debug\work001.exe.config
+C:\VisualStudio\work\work001\bin\Debug\work001.exe
+C:\VisualStudio\work\work001\bin\Debug\work001.pdb
+C:\VisualStudio\work\work001\obj\Debug\work001.csprojResolveAssemblyReference.cache
+C:\VisualStudio\work\work001\obj\Debug\work001.csproj.CoreCompileInputs.cache
+C:\VisualStudio\work\work001\obj\Debug\work001.exe
+C:\VisualStudio\work\work001\obj\Debug\work001.pdb

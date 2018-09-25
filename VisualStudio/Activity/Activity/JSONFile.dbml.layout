@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="JSONFile">
+  <DataContextMoniker Name="/JSONFileDataContext" />
+  <nestedChildShapes>
+    <classShape Id="cfb0b06c-aa1e-4a76-9a73-7b208b08cde6" absoluteBounds="2.125, 0.875, 2, 1.1677168782552083">
+      <DataClassMoniker Name="/JSONFileDataContext/JSON_Table" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f9337333-2679-4627-920b-ca1e36aeb8de" absoluteBounds="2.1399999999999997, 1.335, 1.9700000000000002, 0.60771687825520826" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,7 @@
+C:\VisualStudio\抽象類別與繼承\抽象類別與繼承\obj\Debug\抽象類別與繼承.csprojResolveAssemblyReference.cache
+C:\VisualStudio\抽象類別與繼承\抽象類別與繼承\obj\Debug\抽象類別與繼承.csproj.CoreCompileInputs.cache
+C:\VisualStudio\抽象類別與繼承\抽象類別與繼承\bin\Debug\抽象類別與繼承.exe.config
+C:\VisualStudio\抽象類別與繼承\抽象類別與繼承\bin\Debug\抽象類別與繼承.exe
+C:\VisualStudio\抽象類別與繼承\抽象類別與繼承\bin\Debug\抽象類別與繼承.pdb
+C:\VisualStudio\抽象類別與繼承\抽象類別與繼承\obj\Debug\抽象類別與繼承.exe
+C:\VisualStudio\抽象類別與繼承\抽象類別與繼承\obj\Debug\抽象類別與繼承.pdb

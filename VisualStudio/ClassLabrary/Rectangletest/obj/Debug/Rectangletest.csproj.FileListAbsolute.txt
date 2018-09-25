@@ -1,0 +1,10 @@
+C:\VisualStudio\ClassLabrary\Rectangletest\bin\Debug\Rectangletest.exe.config
+C:\VisualStudio\ClassLabrary\Rectangletest\bin\Debug\Rectangletest.exe
+C:\VisualStudio\ClassLabrary\Rectangletest\bin\Debug\Rectangletest.pdb
+C:\VisualStudio\ClassLabrary\Rectangletest\bin\Debug\ClassLabrary.dll
+C:\VisualStudio\ClassLabrary\Rectangletest\bin\Debug\ClassLabrary.pdb
+C:\VisualStudio\ClassLabrary\Rectangletest\obj\Debug\Rectangletest.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ClassLabrary\Rectangletest\obj\Debug\Rectangletest.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ClassLabrary\Rectangletest\obj\Debug\Rectangletest.csproj.CopyComplete
+C:\VisualStudio\ClassLabrary\Rectangletest\obj\Debug\Rectangletest.exe
+C:\VisualStudio\ClassLabrary\Rectangletest\obj\Debug\Rectangletest.pdb

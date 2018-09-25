@@ -1,0 +1,7 @@
+C:\VisualStudio\ForBreakLoopSample\ForBreakLoopSample\bin\Debug\ForBreakLoopSample.exe.config
+C:\VisualStudio\ForBreakLoopSample\ForBreakLoopSample\bin\Debug\ForBreakLoopSample.exe
+C:\VisualStudio\ForBreakLoopSample\ForBreakLoopSample\bin\Debug\ForBreakLoopSample.pdb
+C:\VisualStudio\ForBreakLoopSample\ForBreakLoopSample\obj\Debug\ForBreakLoopSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ForBreakLoopSample\ForBreakLoopSample\obj\Debug\ForBreakLoopSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ForBreakLoopSample\ForBreakLoopSample\obj\Debug\ForBreakLoopSample.exe
+C:\VisualStudio\ForBreakLoopSample\ForBreakLoopSample\obj\Debug\ForBreakLoopSample.pdb

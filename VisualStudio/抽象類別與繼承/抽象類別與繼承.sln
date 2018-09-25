@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象類別與繼承", "抽象類別與繼承\抽象類別與繼承.csproj", "{35C47343-ED28-49CF-B8C5-C8E694BE4F67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象類別與繼承2", "抽象類別與繼承2\抽象類別與繼承2.csproj", "{00508E51-5617-4D39-AC37-7B085D1F24F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C47343-ED28-49CF-B8C5-C8E694BE4F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C47343-ED28-49CF-B8C5-C8E694BE4F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C47343-ED28-49CF-B8C5-C8E694BE4F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C47343-ED28-49CF-B8C5-C8E694BE4F67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00508E51-5617-4D39-AC37-7B085D1F24F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00508E51-5617-4D39-AC37-7B085D1F24F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00508E51-5617-4D39-AC37-7B085D1F24F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00508E51-5617-4D39-AC37-7B085D1F24F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35762034-8CAC-443E-A59B-4B75FFC88CCF}
+	EndGlobalSection
+EndGlobal

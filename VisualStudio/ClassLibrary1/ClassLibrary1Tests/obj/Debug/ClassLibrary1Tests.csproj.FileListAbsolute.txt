@@ -1,0 +1,11 @@
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.dll
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\bin\Debug\ClassLibrary1Tests.pdb
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\bin\Debug\ClassLibrary1.dll
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\bin\Debug\ClassLibrary1.pdb
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.csproj.CopyComplete
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.dll
+C:\VisualStudio\ClassLibrary1\ClassLibrary1Tests\obj\Debug\ClassLibrary1Tests.pdb

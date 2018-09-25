@@ -1,0 +1,9 @@
+C:\VisualStudio\ListSample\ListSample1\bin\Debug\ListSample1.exe.config
+C:\VisualStudio\ListSample\ListSample1\bin\Debug\ListSample1.exe
+C:\VisualStudio\ListSample\ListSample1\bin\Debug\ListSample1.pdb
+C:\VisualStudio\ListSample\ListSample1\obj\Debug\ListSample1.Form1.resources
+C:\VisualStudio\ListSample\ListSample1\obj\Debug\ListSample1.Properties.Resources.resources
+C:\VisualStudio\ListSample\ListSample1\obj\Debug\ListSample1.csproj.GenerateResource.Cache
+C:\VisualStudio\ListSample\ListSample1\obj\Debug\ListSample1.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ListSample\ListSample1\obj\Debug\ListSample1.exe
+C:\VisualStudio\ListSample\ListSample1\obj\Debug\ListSample1.pdb

@@ -1,0 +1,7 @@
+C:\VisualStudio\unionSample\unionSample\bin\Debug\unionSample.exe.config
+C:\VisualStudio\unionSample\unionSample\bin\Debug\unionSample.exe
+C:\VisualStudio\unionSample\unionSample\bin\Debug\unionSample.pdb
+C:\VisualStudio\unionSample\unionSample\obj\Debug\unionSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\unionSample\unionSample\obj\Debug\unionSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\unionSample\obj\Debug\unionSample.exe
+C:\VisualStudio\unionSample\unionSample\obj\Debug\unionSample.pdb

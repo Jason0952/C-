@@ -1,0 +1,6 @@
+C:\VisualStudio\ForBreakLoopSample\StringNumSample\bin\Debug\StringNumSample.exe.config
+C:\VisualStudio\ForBreakLoopSample\StringNumSample\bin\Debug\StringNumSample.exe
+C:\VisualStudio\ForBreakLoopSample\StringNumSample\bin\Debug\StringNumSample.pdb
+C:\VisualStudio\ForBreakLoopSample\StringNumSample\obj\Debug\StringNumSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ForBreakLoopSample\StringNumSample\obj\Debug\StringNumSample.exe
+C:\VisualStudio\ForBreakLoopSample\StringNumSample\obj\Debug\StringNumSample.pdb

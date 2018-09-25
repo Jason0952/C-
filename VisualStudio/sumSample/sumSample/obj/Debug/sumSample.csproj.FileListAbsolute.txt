@@ -1,0 +1,7 @@
+C:\VisualStudio\sumSample\sumSample\bin\Debug\sumSample.exe.config
+C:\VisualStudio\sumSample\sumSample\bin\Debug\sumSample.exe
+C:\VisualStudio\sumSample\sumSample\bin\Debug\sumSample.pdb
+C:\VisualStudio\sumSample\sumSample\obj\Debug\sumSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\sumSample\sumSample\obj\Debug\sumSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\sumSample\sumSample\obj\Debug\sumSample.exe
+C:\VisualStudio\sumSample\sumSample\obj\Debug\sumSample.pdb

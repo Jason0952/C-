@@ -1,0 +1,7 @@
+C:\VisualStudio\nullable\nullable\bin\Debug\nullable.exe.config
+C:\VisualStudio\nullable\nullable\bin\Debug\nullable.exe
+C:\VisualStudio\nullable\nullable\bin\Debug\nullable.pdb
+C:\VisualStudio\nullable\nullable\obj\Debug\nullable.csprojResolveAssemblyReference.cache
+C:\VisualStudio\nullable\nullable\obj\Debug\nullable.csproj.CoreCompileInputs.cache
+C:\VisualStudio\nullable\nullable\obj\Debug\nullable.exe
+C:\VisualStudio\nullable\nullable\obj\Debug\nullable.pdb

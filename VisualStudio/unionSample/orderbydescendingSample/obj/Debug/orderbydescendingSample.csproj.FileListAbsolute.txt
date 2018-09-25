@@ -1,0 +1,6 @@
+C:\VisualStudio\unionSample\orderbydescendingSample\bin\Debug\orderbydescendingSample.exe.config
+C:\VisualStudio\unionSample\orderbydescendingSample\bin\Debug\orderbydescendingSample.exe
+C:\VisualStudio\unionSample\orderbydescendingSample\bin\Debug\orderbydescendingSample.pdb
+C:\VisualStudio\unionSample\orderbydescendingSample\obj\Debug\orderbydescendingSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\orderbydescendingSample\obj\Debug\orderbydescendingSample.exe
+C:\VisualStudio\unionSample\orderbydescendingSample\obj\Debug\orderbydescendingSample.pdb

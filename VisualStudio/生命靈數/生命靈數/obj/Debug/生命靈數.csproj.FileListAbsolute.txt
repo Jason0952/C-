@@ -1,0 +1,10 @@
+C:\VisualStudio\生命靈數\生命靈數\bin\Debug\生命靈數.exe.config
+C:\VisualStudio\生命靈數\生命靈數\bin\Debug\生命靈數.exe
+C:\VisualStudio\生命靈數\生命靈數\bin\Debug\生命靈數.pdb
+C:\VisualStudio\生命靈數\生命靈數\obj\Debug\生命靈數.Form1.resources
+C:\VisualStudio\生命靈數\生命靈數\obj\Debug\生命靈數.Properties.Resources.resources
+C:\VisualStudio\生命靈數\生命靈數\obj\Debug\生命靈數.csproj.GenerateResource.Cache
+C:\VisualStudio\生命靈數\生命靈數\obj\Debug\生命靈數.csproj.CoreCompileInputs.cache
+C:\VisualStudio\生命靈數\生命靈數\obj\Debug\生命靈數.exe
+C:\VisualStudio\生命靈數\生命靈數\obj\Debug\生命靈數.pdb
+C:\VisualStudio\生命靈數\生命靈數\obj\Debug\生命靈數.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\VisualStudio\疊加\疊加\obj\Debug\疊加.csprojResolveAssemblyReference.cache
+C:\VisualStudio\疊加\疊加\obj\Debug\疊加.csproj.CoreCompileInputs.cache
+C:\VisualStudio\疊加\疊加\bin\Debug\疊加.exe.config
+C:\VisualStudio\疊加\疊加\bin\Debug\疊加.exe
+C:\VisualStudio\疊加\疊加\bin\Debug\疊加.pdb
+C:\VisualStudio\疊加\疊加\obj\Debug\疊加.exe
+C:\VisualStudio\疊加\疊加\obj\Debug\疊加.pdb

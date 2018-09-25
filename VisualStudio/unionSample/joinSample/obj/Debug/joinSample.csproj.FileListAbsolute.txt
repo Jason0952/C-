@@ -1,0 +1,7 @@
+C:\VisualStudio\unionSample\joinSample\obj\Debug\joinSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\joinSample\bin\Debug\joinSample.exe.config
+C:\VisualStudio\unionSample\joinSample\bin\Debug\joinSample.exe
+C:\VisualStudio\unionSample\joinSample\bin\Debug\joinSample.pdb
+C:\VisualStudio\unionSample\joinSample\obj\Debug\joinSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\unionSample\joinSample\obj\Debug\joinSample.exe
+C:\VisualStudio\unionSample\joinSample\obj\Debug\joinSample.pdb

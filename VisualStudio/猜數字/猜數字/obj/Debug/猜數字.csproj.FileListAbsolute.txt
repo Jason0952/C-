@@ -1,0 +1,20 @@
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\bin\Debug\猜數字.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\bin\Debug\猜數字.exe
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\bin\Debug\猜數字.pdb
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\obj\Debug\猜數字.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\obj\Debug\猜數字.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\obj\Debug\猜數字.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\obj\Debug\猜數字.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\obj\Debug\猜數字.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\obj\Debug\猜數字.exe
+c:\users\pc\documents\visual studio 2017\Projects\猜數字\猜數字\obj\Debug\猜數字.pdb
+C:\VisualStudio\猜數字\猜數字\obj\Debug\猜數字.csprojResolveAssemblyReference.cache
+C:\VisualStudio\猜數字\猜數字\obj\Debug\猜數字.Form1.resources
+C:\VisualStudio\猜數字\猜數字\obj\Debug\猜數字.Properties.Resources.resources
+C:\VisualStudio\猜數字\猜數字\obj\Debug\猜數字.csproj.GenerateResource.Cache
+C:\VisualStudio\猜數字\猜數字\obj\Debug\猜數字.csproj.CoreCompileInputs.cache
+C:\VisualStudio\猜數字\猜數字\obj\Debug\猜數字.exe
+C:\VisualStudio\猜數字\猜數字\obj\Debug\猜數字.pdb
+C:\VisualStudio\猜數字\猜數字\bin\Debug\猜數字.exe.config
+C:\VisualStudio\猜數字\猜數字\bin\Debug\猜數字.exe
+C:\VisualStudio\猜數字\猜數字\bin\Debug\猜數字.pdb

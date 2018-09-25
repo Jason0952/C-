@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+</head>
+<body>
+    <button onclick="MicrosoftCode();">點選這裡連結到MincrosoftLogin</button>
+    <p id="Mydata"></p>
+    <script>     
+        function MicrosoftCode() {
+            var URL = 'https://login.microsoftonline.com/common/oauth2/v2.0/authorize?';
+            URL += 'response_type=code';
+            URL += '&client_id=4f8961e9-ebec-46d7-8fde-7a4ea6680bae';  //client_id
+            URL += '&redirect_uri=http://localhost:51262/LoginHTML.html'; //callback url
+            URL += '&scope=openid https://graph.microsoft.com/user.read'
+            URL += '&response_mode=query';
+            
+            //導引到Login
+            window.location.href = URL;
+        }
+
+        function DoingAPI(uri, code) {
+            $.ajax({
+                url: uri,
+                type: "POST",
+                success: function (result) {
+                    console.log(result);
+                }
+            })                
+        }
+
+        function GetUserdata(uri, accesstoken) {
+            $.ajax({
+                url: uri,
+                type: "GET",
+                success: function (apiresult) {
+                    success(apiresult);
+                }
+            })
+        }
+
+        function getaccesstoken(code) {
+            var gettoken = DoingAPI('actionapi/MicrosoftLogin/' + getcode, getcode);
+            console.log(gettoken);
+        }
+        $(document).ready(function () {
+            var getcode = location.search.replace("?", "").split("=")[1];
+            console.log(getcode);
+
+            var accesstoken = DoingAPI('actionapi/MicrosoftLogin/getcode/' + getcode, getcode);
+            console.log(accesstoken);
+
+            var GetUserdata = GetData('actionapi/MicrosoftLogin/accesstoken/' + accesstoken, accesstoken);
+            console.log(GetUserdata);
+        });
+    </script>
+</body>
+
+</html>

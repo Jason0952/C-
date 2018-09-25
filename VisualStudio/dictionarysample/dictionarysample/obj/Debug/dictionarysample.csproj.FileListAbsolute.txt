@@ -1,0 +1,10 @@
+C:\VisualStudio\dictionarysample\dictionarysample\obj\Debug\dictionarysample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\dictionarysample\dictionarysample\obj\Debug\dictionarysample.Form1.resources
+C:\VisualStudio\dictionarysample\dictionarysample\obj\Debug\dictionarysample.Properties.Resources.resources
+C:\VisualStudio\dictionarysample\dictionarysample\obj\Debug\dictionarysample.csproj.GenerateResource.Cache
+C:\VisualStudio\dictionarysample\dictionarysample\obj\Debug\dictionarysample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\dictionarysample\dictionarysample\bin\Debug\dictionarysample.exe.config
+C:\VisualStudio\dictionarysample\dictionarysample\bin\Debug\dictionarysample.exe
+C:\VisualStudio\dictionarysample\dictionarysample\bin\Debug\dictionarysample.pdb
+C:\VisualStudio\dictionarysample\dictionarysample\obj\Debug\dictionarysample.exe
+C:\VisualStudio\dictionarysample\dictionarysample\obj\Debug\dictionarysample.pdb

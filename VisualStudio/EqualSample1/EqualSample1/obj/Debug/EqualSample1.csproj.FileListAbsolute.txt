@@ -1,0 +1,7 @@
+C:\VisualStudio\EqualSample1\EqualSample1\bin\Debug\EqualSample1.exe.config
+C:\VisualStudio\EqualSample1\EqualSample1\bin\Debug\EqualSample1.exe
+C:\VisualStudio\EqualSample1\EqualSample1\bin\Debug\EqualSample1.pdb
+C:\VisualStudio\EqualSample1\EqualSample1\obj\Debug\EqualSample1.csprojResolveAssemblyReference.cache
+C:\VisualStudio\EqualSample1\EqualSample1\obj\Debug\EqualSample1.csproj.CoreCompileInputs.cache
+C:\VisualStudio\EqualSample1\EqualSample1\obj\Debug\EqualSample1.exe
+C:\VisualStudio\EqualSample1\EqualSample1\obj\Debug\EqualSample1.pdb

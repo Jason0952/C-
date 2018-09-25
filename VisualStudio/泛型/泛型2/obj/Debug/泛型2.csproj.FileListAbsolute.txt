@@ -1,0 +1,7 @@
+C:\VisualStudio\泛型\泛型2\bin\Debug\泛型2.exe.config
+C:\VisualStudio\泛型\泛型2\bin\Debug\泛型2.exe
+C:\VisualStudio\泛型\泛型2\bin\Debug\泛型2.pdb
+C:\VisualStudio\泛型\泛型2\obj\Debug\泛型2.csproj.CoreCompileInputs.cache
+C:\VisualStudio\泛型\泛型2\obj\Debug\泛型2.exe
+C:\VisualStudio\泛型\泛型2\obj\Debug\泛型2.pdb
+C:\VisualStudio\泛型\泛型2\obj\Debug\泛型2.csprojResolveAssemblyReference.cache

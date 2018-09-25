@@ -1,0 +1,7 @@
+C:\VisualStudio\sumSample\countSample\bin\Debug\countSample.exe.config
+C:\VisualStudio\sumSample\countSample\bin\Debug\countSample.exe
+C:\VisualStudio\sumSample\countSample\bin\Debug\countSample.pdb
+C:\VisualStudio\sumSample\countSample\obj\Debug\countSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\sumSample\countSample\obj\Debug\countSample.exe
+C:\VisualStudio\sumSample\countSample\obj\Debug\countSample.pdb
+C:\VisualStudio\sumSample\countSample\obj\Debug\countSample.csprojResolveAssemblyReference.cache

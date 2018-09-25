@@ -1,0 +1,10 @@
+C:\VisualStudio\ListSample\ListSample\obj\Debug\ListSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ListSample\ListSample\obj\Debug\ListSample.Form1.resources
+C:\VisualStudio\ListSample\ListSample\obj\Debug\ListSample.Properties.Resources.resources
+C:\VisualStudio\ListSample\ListSample\obj\Debug\ListSample.csproj.GenerateResource.Cache
+C:\VisualStudio\ListSample\ListSample\obj\Debug\ListSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ListSample\ListSample\bin\Debug\ListSample.exe.config
+C:\VisualStudio\ListSample\ListSample\bin\Debug\ListSample.exe
+C:\VisualStudio\ListSample\ListSample\bin\Debug\ListSample.pdb
+C:\VisualStudio\ListSample\ListSample\obj\Debug\ListSample.exe
+C:\VisualStudio\ListSample\ListSample\obj\Debug\ListSample.pdb

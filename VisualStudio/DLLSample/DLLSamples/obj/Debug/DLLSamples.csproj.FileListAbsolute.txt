@@ -1,0 +1,6 @@
+C:\VisualStudio\DLLSample\DLLSamples\obj\Debug\DLLSamples.csprojResolveAssemblyReference.cache
+C:\VisualStudio\DLLSample\DLLSamples\obj\Debug\DLLSamples.csproj.CoreCompileInputs.cache
+C:\VisualStudio\DLLSample\DLLSamples\bin\Debug\DLLSamples.dll
+C:\VisualStudio\DLLSample\DLLSamples\bin\Debug\DLLSamples.pdb
+C:\VisualStudio\DLLSample\DLLSamples\obj\Debug\DLLSamples.dll
+C:\VisualStudio\DLLSample\DLLSamples\obj\Debug\DLLSamples.pdb

@@ -1,0 +1,15 @@
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\文字檔讀取.exe.config
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\文字檔讀取.exe
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\文字檔讀取.pdb
+C:\VisualStudio\Hackthon2\文字檔讀取\obj\Debug\文字檔讀取.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Hackthon2\文字檔讀取\obj\Debug\文字檔讀取.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Hackthon2\文字檔讀取\obj\Debug\文字檔讀取.exe
+C:\VisualStudio\Hackthon2\文字檔讀取\obj\Debug\文字檔讀取.pdb
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\Data.mdf
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\Data_log.ldf
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\EntityFramework.dll
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\EntityFramework.SqlServer.dll
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\EntityFramework.xml
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\EntityFramework.SqlServer.xml
+C:\VisualStudio\Hackthon2\文字檔讀取\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\VisualStudio\Hackthon2\文字檔讀取\obj\Debug\文字檔讀取.csproj.CopyComplete

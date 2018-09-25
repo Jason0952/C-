@@ -1,0 +1,6 @@
+C:\VisualStudio\Hackthon2\數值判斷\bin\Debug\數值判斷.exe.config
+C:\VisualStudio\Hackthon2\數值判斷\bin\Debug\數值判斷.exe
+C:\VisualStudio\Hackthon2\數值判斷\bin\Debug\數值判斷.pdb
+C:\VisualStudio\Hackthon2\數值判斷\obj\Debug\數值判斷.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Hackthon2\數值判斷\obj\Debug\數值判斷.exe
+C:\VisualStudio\Hackthon2\數值判斷\obj\Debug\數值判斷.pdb

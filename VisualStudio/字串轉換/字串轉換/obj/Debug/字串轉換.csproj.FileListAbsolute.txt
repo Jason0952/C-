@@ -1,0 +1,7 @@
+C:\VisualStudio\字串轉換\字串轉換\obj\Debug\字串轉換.csprojResolveAssemblyReference.cache
+C:\VisualStudio\字串轉換\字串轉換\obj\Debug\字串轉換.csproj.CoreCompileInputs.cache
+C:\VisualStudio\字串轉換\字串轉換\bin\Debug\字串轉換.exe.config
+C:\VisualStudio\字串轉換\字串轉換\bin\Debug\字串轉換.exe
+C:\VisualStudio\字串轉換\字串轉換\bin\Debug\字串轉換.pdb
+C:\VisualStudio\字串轉換\字串轉換\obj\Debug\字串轉換.exe
+C:\VisualStudio\字串轉換\字串轉換\obj\Debug\字串轉換.pdb

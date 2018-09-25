@@ -1,0 +1,6 @@
+C:\VisualStudio\MyFirstSolution\MyFirstApp\bin\Release\MyFirstApp.exe.config
+C:\VisualStudio\MyFirstSolution\MyFirstApp\bin\Release\MyFirstApp.exe
+C:\VisualStudio\MyFirstSolution\MyFirstApp\bin\Release\MyFirstApp.pdb
+C:\VisualStudio\MyFirstSolution\MyFirstApp\obj\Release\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MyFirstSolution\MyFirstApp\obj\Release\MyFirstApp.exe
+C:\VisualStudio\MyFirstSolution\MyFirstApp\obj\Release\MyFirstApp.pdb

@@ -1,0 +1,7 @@
+C:\VisualStudio\費氏\費氏\bin\Debug\費氏.exe.config
+C:\VisualStudio\費氏\費氏\bin\Debug\費氏.exe
+C:\VisualStudio\費氏\費氏\bin\Debug\費氏.pdb
+C:\VisualStudio\費氏\費氏\obj\Debug\費氏.csprojResolveAssemblyReference.cache
+C:\VisualStudio\費氏\費氏\obj\Debug\費氏.csproj.CoreCompileInputs.cache
+C:\VisualStudio\費氏\費氏\obj\Debug\費氏.exe
+C:\VisualStudio\費氏\費氏\obj\Debug\費氏.pdb

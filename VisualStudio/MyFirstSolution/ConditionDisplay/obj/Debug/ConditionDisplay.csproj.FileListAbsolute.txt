@@ -1,0 +1,6 @@
+C:\VisualStudio\MyFirstSolution\ConditionDisplay\obj\Debug\ConditionDisplay.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MyFirstSolution\ConditionDisplay\bin\Debug\ConditionDisplay.exe.config
+C:\VisualStudio\MyFirstSolution\ConditionDisplay\bin\Debug\ConditionDisplay.exe
+C:\VisualStudio\MyFirstSolution\ConditionDisplay\bin\Debug\ConditionDisplay.pdb
+C:\VisualStudio\MyFirstSolution\ConditionDisplay\obj\Debug\ConditionDisplay.exe
+C:\VisualStudio\MyFirstSolution\ConditionDisplay\obj\Debug\ConditionDisplay.pdb

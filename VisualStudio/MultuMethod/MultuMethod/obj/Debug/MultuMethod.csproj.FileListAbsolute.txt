@@ -1,0 +1,6 @@
+C:\VisualStudio\MultuMethod\MultuMethod\bin\Debug\MultuMethod.exe.config
+C:\VisualStudio\MultuMethod\MultuMethod\bin\Debug\MultuMethod.exe
+C:\VisualStudio\MultuMethod\MultuMethod\bin\Debug\MultuMethod.pdb
+C:\VisualStudio\MultuMethod\MultuMethod\obj\Debug\MultuMethod.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MultuMethod\MultuMethod\obj\Debug\MultuMethod.exe
+C:\VisualStudio\MultuMethod\MultuMethod\obj\Debug\MultuMethod.pdb

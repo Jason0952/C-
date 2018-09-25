@@ -1,0 +1,6 @@
+C:\VisualStudio\ClassLabrary\ClassLabrary\bin\Debug\ClassLabrary.dll
+C:\VisualStudio\ClassLabrary\ClassLabrary\bin\Debug\ClassLabrary.pdb
+C:\VisualStudio\ClassLabrary\ClassLabrary\obj\Debug\ClassLabrary.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ClassLabrary\ClassLabrary\obj\Debug\ClassLabrary.dll
+C:\VisualStudio\ClassLabrary\ClassLabrary\obj\Debug\ClassLabrary.pdb
+C:\VisualStudio\ClassLabrary\ClassLabrary\obj\Debug\ClassLabrary.csprojResolveAssemblyReference.cache

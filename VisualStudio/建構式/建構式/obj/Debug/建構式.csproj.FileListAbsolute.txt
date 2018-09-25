@@ -1,0 +1,7 @@
+C:\VisualStudio\建構式\建構式\bin\Debug\建構式.exe.config
+C:\VisualStudio\建構式\建構式\bin\Debug\建構式.exe
+C:\VisualStudio\建構式\建構式\bin\Debug\建構式.pdb
+C:\VisualStudio\建構式\建構式\obj\Debug\建構式.csprojResolveAssemblyReference.cache
+C:\VisualStudio\建構式\建構式\obj\Debug\建構式.csproj.CoreCompileInputs.cache
+C:\VisualStudio\建構式\建構式\obj\Debug\建構式.exe
+C:\VisualStudio\建構式\建構式\obj\Debug\建構式.pdb

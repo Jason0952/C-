@@ -1,0 +1,6 @@
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\bin\Release\ReadThanDisplay.exe.config
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\bin\Release\ReadThanDisplay.exe
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\bin\Release\ReadThanDisplay.pdb
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\obj\Release\ReadThanDisplay.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\obj\Release\ReadThanDisplay.exe
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\obj\Release\ReadThanDisplay.pdb

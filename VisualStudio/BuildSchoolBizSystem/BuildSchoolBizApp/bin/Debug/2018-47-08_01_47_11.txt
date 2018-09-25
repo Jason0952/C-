@@ -1,0 +1,2 @@
+System.ArgumentException: PartNo A001 exsists
+   於 BuildSchoolBizApp.Services.ProductService.Create(ProductViewModel product) 於 C:\VisualStudio\BuildSchoolBizSystem\BuildSchoolBizApp\Services\ProductService.cs: 行 20

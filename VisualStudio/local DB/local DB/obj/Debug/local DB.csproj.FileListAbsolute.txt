@@ -1,0 +1,18 @@
+C:\VisualStudio\local DB\local DB\obj\Debug\local DB.csprojResolveAssemblyReference.cache
+C:\VisualStudio\local DB\local DB\obj\Debug\local_DB.AddForm.resources
+C:\VisualStudio\local DB\local DB\obj\Debug\local_DB.Form1.resources
+C:\VisualStudio\local DB\local DB\obj\Debug\local_DB.Properties.Resources.resources
+C:\VisualStudio\local DB\local DB\obj\Debug\local_DB.ViewForm.resources
+C:\VisualStudio\local DB\local DB\obj\Debug\local DB.csproj.GenerateResource.cache
+C:\VisualStudio\local DB\local DB\obj\Debug\local DB.csproj.CoreCompileInputs.cache
+C:\VisualStudio\local DB\local DB\bin\Debug\local DB.exe.config
+C:\VisualStudio\local DB\local DB\bin\Debug\local DB.exe
+C:\VisualStudio\local DB\local DB\bin\Debug\local DB.pdb
+C:\VisualStudio\local DB\local DB\bin\Debug\EntityFramework.dll
+C:\VisualStudio\local DB\local DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\VisualStudio\local DB\local DB\bin\Debug\EntityFramework.xml
+C:\VisualStudio\local DB\local DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\VisualStudio\local DB\local DB\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\VisualStudio\local DB\local DB\obj\Debug\local DB.csproj.CopyComplete
+C:\VisualStudio\local DB\local DB\obj\Debug\local DB.exe
+C:\VisualStudio\local DB\local DB\obj\Debug\local DB.pdb

@@ -1,0 +1,7 @@
+c:\users\pc\documents\visual studio 2017\Projects\吃糖果\吃糖果\bin\Debug\吃糖果.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\吃糖果\吃糖果\bin\Debug\吃糖果.exe
+c:\users\pc\documents\visual studio 2017\Projects\吃糖果\吃糖果\bin\Debug\吃糖果.pdb
+c:\users\pc\documents\visual studio 2017\Projects\吃糖果\吃糖果\obj\Debug\吃糖果.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\吃糖果\吃糖果\obj\Debug\吃糖果.csproj.CoreCompileInputs.cache
+c:\users\pc\documents\visual studio 2017\Projects\吃糖果\吃糖果\obj\Debug\吃糖果.exe
+c:\users\pc\documents\visual studio 2017\Projects\吃糖果\吃糖果\obj\Debug\吃糖果.pdb

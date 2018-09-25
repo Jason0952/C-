@@ -1,0 +1,10 @@
+C:\VisualStudio\費氏\滷味\bin\Debug\滷味.exe.config
+C:\VisualStudio\費氏\滷味\bin\Debug\滷味.exe
+C:\VisualStudio\費氏\滷味\bin\Debug\滷味.pdb
+C:\VisualStudio\費氏\滷味\obj\Debug\滷味.csprojResolveAssemblyReference.cache
+C:\VisualStudio\費氏\滷味\obj\Debug\滷味.Form1.resources
+C:\VisualStudio\費氏\滷味\obj\Debug\滷味.Properties.Resources.resources
+C:\VisualStudio\費氏\滷味\obj\Debug\滷味.csproj.GenerateResource.cache
+C:\VisualStudio\費氏\滷味\obj\Debug\滷味.csproj.CoreCompileInputs.cache
+C:\VisualStudio\費氏\滷味\obj\Debug\滷味.exe
+C:\VisualStudio\費氏\滷味\obj\Debug\滷味.pdb

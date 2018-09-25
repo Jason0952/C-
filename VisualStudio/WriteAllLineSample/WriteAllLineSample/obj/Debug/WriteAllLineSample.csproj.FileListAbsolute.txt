@@ -1,0 +1,10 @@
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\bin\Debug\WriteAllLineSample.exe.config
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\bin\Debug\WriteAllLineSample.exe
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\bin\Debug\WriteAllLineSample.pdb
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\obj\Debug\WriteAllLineSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\obj\Debug\WriteAllLineSample.Form1.resources
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\obj\Debug\WriteAllLineSample.Properties.Resources.resources
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\obj\Debug\WriteAllLineSample.csproj.GenerateResource.Cache
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\obj\Debug\WriteAllLineSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\obj\Debug\WriteAllLineSample.exe
+C:\VisualStudio\WriteAllLineSample\WriteAllLineSample\obj\Debug\WriteAllLineSample.pdb

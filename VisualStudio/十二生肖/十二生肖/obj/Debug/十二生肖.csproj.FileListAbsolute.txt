@@ -1,0 +1,7 @@
+C:\VisualStudio\十二生肖\十二生肖\obj\Debug\十二生肖.csproj.CoreCompileInputs.cache
+C:\VisualStudio\十二生肖\十二生肖\bin\Debug\十二生肖.exe.config
+C:\VisualStudio\十二生肖\十二生肖\bin\Debug\十二生肖.exe
+C:\VisualStudio\十二生肖\十二生肖\bin\Debug\十二生肖.pdb
+C:\VisualStudio\十二生肖\十二生肖\obj\Debug\十二生肖.exe
+C:\VisualStudio\十二生肖\十二生肖\obj\Debug\十二生肖.pdb
+C:\VisualStudio\十二生肖\十二生肖\obj\Debug\十二生肖.csprojAssemblyReference.cache

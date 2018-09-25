@@ -1,0 +1,7 @@
+C:\VisualStudio\迴圈倒置1\homework2\bin\Debug\homework2.exe.config
+C:\VisualStudio\迴圈倒置1\homework2\bin\Debug\homework2.exe
+C:\VisualStudio\迴圈倒置1\homework2\bin\Debug\homework2.pdb
+C:\VisualStudio\迴圈倒置1\homework2\obj\Debug\迴圈倒置1.csproj.CoreCompileInputs.cache
+C:\VisualStudio\迴圈倒置1\homework2\obj\Debug\homework2.exe
+C:\VisualStudio\迴圈倒置1\homework2\obj\Debug\homework2.pdb
+C:\VisualStudio\迴圈倒置1\homework2\obj\Debug\迴圈倒置1.csprojResolveAssemblyReference.cache

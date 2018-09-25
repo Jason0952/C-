@@ -1,0 +1,6 @@
+C:\VisualStudio\費氏\猴子選大王\obj\Debug\猴子選大王.csproj.CoreCompileInputs.cache
+C:\VisualStudio\費氏\猴子選大王\bin\Debug\猴子選大王.exe.config
+C:\VisualStudio\費氏\猴子選大王\bin\Debug\猴子選大王.exe
+C:\VisualStudio\費氏\猴子選大王\bin\Debug\猴子選大王.pdb
+C:\VisualStudio\費氏\猴子選大王\obj\Debug\猴子選大王.exe
+C:\VisualStudio\費氏\猴子選大王\obj\Debug\猴子選大王.pdb

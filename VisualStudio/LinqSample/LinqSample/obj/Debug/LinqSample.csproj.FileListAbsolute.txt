@@ -1,0 +1,7 @@
+C:\VisualStudio\LinqSample\LinqSample\bin\Debug\LinqSample.exe.config
+C:\VisualStudio\LinqSample\LinqSample\bin\Debug\LinqSample.exe
+C:\VisualStudio\LinqSample\LinqSample\bin\Debug\LinqSample.pdb
+C:\VisualStudio\LinqSample\LinqSample\obj\Debug\LinqSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\LinqSample\LinqSample\obj\Debug\LinqSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\LinqSample\LinqSample\obj\Debug\LinqSample.exe
+C:\VisualStudio\LinqSample\LinqSample\obj\Debug\LinqSample.pdb

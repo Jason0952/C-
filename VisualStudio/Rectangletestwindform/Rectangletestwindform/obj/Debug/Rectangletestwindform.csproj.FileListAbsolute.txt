@@ -1,0 +1,13 @@
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\bin\Debug\Rectangletestwindform.exe.config
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\bin\Debug\Rectangletestwindform.exe
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\bin\Debug\Rectangletestwindform.pdb
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\bin\Debug\ClassLabrary.dll
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\bin\Debug\ClassLabrary.pdb
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.Form1.resources
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.Properties.Resources.resources
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.csproj.GenerateResource.cache
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.csproj.CopyComplete
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.exe
+C:\VisualStudio\Rectangletestwindform\Rectangletestwindform\obj\Debug\Rectangletestwindform.pdb

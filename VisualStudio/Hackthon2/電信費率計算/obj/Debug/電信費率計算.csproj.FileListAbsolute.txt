@@ -1,0 +1,10 @@
+C:\VisualStudio\Hackthon2\電信費率計算\bin\Debug\電信費率計算.exe.config
+C:\VisualStudio\Hackthon2\電信費率計算\bin\Debug\電信費率計算.exe
+C:\VisualStudio\Hackthon2\電信費率計算\bin\Debug\電信費率計算.pdb
+C:\VisualStudio\Hackthon2\電信費率計算\obj\Debug\電信費率計算.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Hackthon2\電信費率計算\obj\Debug\電信費率計算.Form1.resources
+C:\VisualStudio\Hackthon2\電信費率計算\obj\Debug\電信費率計算.Properties.Resources.resources
+C:\VisualStudio\Hackthon2\電信費率計算\obj\Debug\電信費率計算.csproj.GenerateResource.cache
+C:\VisualStudio\Hackthon2\電信費率計算\obj\Debug\電信費率計算.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Hackthon2\電信費率計算\obj\Debug\電信費率計算.exe
+C:\VisualStudio\Hackthon2\電信費率計算\obj\Debug\電信費率計算.pdb

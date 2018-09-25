@@ -1,0 +1,10 @@
+C:\VisualStudio\Hackthon2\累進稅率\bin\Debug\累進稅率.exe.config
+C:\VisualStudio\Hackthon2\累進稅率\bin\Debug\累進稅率.exe
+C:\VisualStudio\Hackthon2\累進稅率\bin\Debug\累進稅率.pdb
+C:\VisualStudio\Hackthon2\累進稅率\obj\Debug\累進稅率.Form1.resources
+C:\VisualStudio\Hackthon2\累進稅率\obj\Debug\累進稅率.Properties.Resources.resources
+C:\VisualStudio\Hackthon2\累進稅率\obj\Debug\累進稅率.csproj.GenerateResource.cache
+C:\VisualStudio\Hackthon2\累進稅率\obj\Debug\累進稅率.csproj.CoreCompileInputs.cache
+C:\VisualStudio\Hackthon2\累進稅率\obj\Debug\累進稅率.exe
+C:\VisualStudio\Hackthon2\累進稅率\obj\Debug\累進稅率.pdb
+C:\VisualStudio\Hackthon2\累進稅率\obj\Debug\累進稅率.csprojAssemblyReference.cache

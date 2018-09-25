@@ -1,0 +1,16 @@
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDb.mdf
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDb_log.ldf
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDataLibrary.dll.config
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDataLibrary.dll
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\BizDataLibrary.pdb
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.dll
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.xml
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.csprojResolveAssemblyReference.cache
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.csproj.CoreCompileInputs.cache
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.csproj.CopyComplete
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.dll
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\obj\Debug\BizDataLibrary.pdb
+C:\VisualStudio\BuildSchoolBizSystem\BizDataLibrary\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll

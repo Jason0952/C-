@@ -1,0 +1,10 @@
+C:\VisualStudio\WriteAllLineSample\DataGridView\bin\Debug\DataGridView.exe.config
+C:\VisualStudio\WriteAllLineSample\DataGridView\bin\Debug\DataGridView.exe
+C:\VisualStudio\WriteAllLineSample\DataGridView\bin\Debug\DataGridView.pdb
+C:\VisualStudio\WriteAllLineSample\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+C:\VisualStudio\WriteAllLineSample\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\VisualStudio\WriteAllLineSample\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\VisualStudio\WriteAllLineSample\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+C:\VisualStudio\WriteAllLineSample\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\VisualStudio\WriteAllLineSample\DataGridView\obj\Debug\DataGridView.exe
+C:\VisualStudio\WriteAllLineSample\DataGridView\obj\Debug\DataGridView.pdb

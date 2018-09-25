@@ -1,0 +1,10 @@
+C:\VisualStudio\dictionarysample\listsample\obj\Debug\listsample.Form1.resources
+C:\VisualStudio\dictionarysample\listsample\obj\Debug\listsample.Properties.Resources.resources
+C:\VisualStudio\dictionarysample\listsample\obj\Debug\listsample.csproj.GenerateResource.Cache
+C:\VisualStudio\dictionarysample\listsample\obj\Debug\listsample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\dictionarysample\listsample\bin\Debug\listsample.exe.config
+C:\VisualStudio\dictionarysample\listsample\bin\Debug\listsample.exe
+C:\VisualStudio\dictionarysample\listsample\bin\Debug\listsample.pdb
+C:\VisualStudio\dictionarysample\listsample\obj\Debug\listsample.exe
+C:\VisualStudio\dictionarysample\listsample\obj\Debug\listsample.pdb
+C:\VisualStudio\dictionarysample\listsample\obj\Debug\listsample.csprojResolveAssemblyReference.cache

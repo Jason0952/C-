@@ -1,0 +1,7 @@
+C:\VisualStudio\varSample\varSample\obj\Debug\varSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\varSample\varSample\obj\Debug\varSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\varSample\varSample\bin\Debug\varSample.exe.config
+C:\VisualStudio\varSample\varSample\bin\Debug\varSample.exe
+C:\VisualStudio\varSample\varSample\bin\Debug\varSample.pdb
+C:\VisualStudio\varSample\varSample\obj\Debug\varSample.exe
+C:\VisualStudio\varSample\varSample\obj\Debug\varSample.pdb

@@ -1,0 +1,9 @@
+C:\VisualStudio\DLLSample\DLLSample\bin\Debug\DLLSample.exe.config
+C:\VisualStudio\DLLSample\DLLSample\bin\Debug\DLLSample.exe
+C:\VisualStudio\DLLSample\DLLSample\bin\Debug\DLLSample.pdb
+C:\VisualStudio\DLLSample\DLLSample\bin\Debug\DLLSamples.dll
+C:\VisualStudio\DLLSample\DLLSample\bin\Debug\DLLSamples.pdb
+C:\VisualStudio\DLLSample\DLLSample\obj\Debug\DLLSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\DLLSample\DLLSample\obj\Debug\DLLSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\DLLSample\DLLSample\obj\Debug\DLLSample.exe
+C:\VisualStudio\DLLSample\DLLSample\obj\Debug\DLLSample.pdb

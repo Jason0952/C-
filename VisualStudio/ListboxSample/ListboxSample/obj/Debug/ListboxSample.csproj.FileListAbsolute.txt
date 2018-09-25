@@ -1,0 +1,10 @@
+C:\VisualStudio\ListboxSample\ListboxSample\bin\Debug\ListboxSample.exe.config
+C:\VisualStudio\ListboxSample\ListboxSample\bin\Debug\ListboxSample.exe
+C:\VisualStudio\ListboxSample\ListboxSample\bin\Debug\ListboxSample.pdb
+C:\VisualStudio\ListboxSample\ListboxSample\obj\Debug\ListboxSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\ListboxSample\ListboxSample\obj\Debug\ListboxSample.Form1.resources
+C:\VisualStudio\ListboxSample\ListboxSample\obj\Debug\ListboxSample.Properties.Resources.resources
+C:\VisualStudio\ListboxSample\ListboxSample\obj\Debug\ListboxSample.csproj.GenerateResource.Cache
+C:\VisualStudio\ListboxSample\ListboxSample\obj\Debug\ListboxSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ListboxSample\ListboxSample\obj\Debug\ListboxSample.exe
+C:\VisualStudio\ListboxSample\ListboxSample\obj\Debug\ListboxSample.pdb

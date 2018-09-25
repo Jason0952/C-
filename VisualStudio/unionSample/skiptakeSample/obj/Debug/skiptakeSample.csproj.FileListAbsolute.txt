@@ -1,0 +1,6 @@
+C:\VisualStudio\unionSample\skiptakeSample\bin\Debug\skiptakeSample.exe.config
+C:\VisualStudio\unionSample\skiptakeSample\bin\Debug\skiptakeSample.exe
+C:\VisualStudio\unionSample\skiptakeSample\bin\Debug\skiptakeSample.pdb
+C:\VisualStudio\unionSample\skiptakeSample\obj\Debug\skiptakeSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\skiptakeSample\obj\Debug\skiptakeSample.exe
+C:\VisualStudio\unionSample\skiptakeSample\obj\Debug\skiptakeSample.pdb

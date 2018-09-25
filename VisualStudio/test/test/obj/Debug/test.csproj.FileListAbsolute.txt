@@ -1,0 +1,2 @@
+C:\VisualStudio\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\VisualStudio\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache

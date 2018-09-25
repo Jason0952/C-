@@ -1,0 +1,10 @@
+C:\VisualStudio\計算假日\計算假日\bin\Debug\計算假日.exe.config
+C:\VisualStudio\計算假日\計算假日\bin\Debug\計算假日.exe
+C:\VisualStudio\計算假日\計算假日\bin\Debug\計算假日.pdb
+C:\VisualStudio\計算假日\計算假日\obj\Debug\計算假日.csprojResolveAssemblyReference.cache
+C:\VisualStudio\計算假日\計算假日\obj\Debug\計算假日.Form1.resources
+C:\VisualStudio\計算假日\計算假日\obj\Debug\計算假日.Properties.Resources.resources
+C:\VisualStudio\計算假日\計算假日\obj\Debug\計算假日.csproj.GenerateResource.Cache
+C:\VisualStudio\計算假日\計算假日\obj\Debug\計算假日.csproj.CoreCompileInputs.cache
+C:\VisualStudio\計算假日\計算假日\obj\Debug\計算假日.exe
+C:\VisualStudio\計算假日\計算假日\obj\Debug\計算假日.pdb

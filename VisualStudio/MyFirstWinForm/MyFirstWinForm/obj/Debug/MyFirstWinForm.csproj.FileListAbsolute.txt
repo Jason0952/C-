@@ -1,0 +1,10 @@
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\obj\Debug\MyFirstWinForm.Form1.resources
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.GenerateResource.Cache
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe.config
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\obj\Debug\MyFirstWinForm.Properties.Resources.resources
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\obj\Debug\MyFirstWinForm.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\obj\Debug\MyFirstWinForm.exe
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\obj\Debug\MyFirstWinForm.pdb
+C:\VisualStudio\MyFirstWinForm\MyFirstWinForm\obj\Debug\MyFirstWinForm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\VisualStudio\unionSample\tostringSample\bin\Debug\tostringSample.exe.config
+C:\VisualStudio\unionSample\tostringSample\bin\Debug\tostringSample.exe
+C:\VisualStudio\unionSample\tostringSample\bin\Debug\tostringSample.pdb
+C:\VisualStudio\unionSample\tostringSample\obj\Debug\tostringSample.csprojResolveAssemblyReference.cache
+C:\VisualStudio\unionSample\tostringSample\obj\Debug\tostringSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\unionSample\tostringSample\obj\Debug\tostringSample.exe
+C:\VisualStudio\unionSample\tostringSample\obj\Debug\tostringSample.pdb

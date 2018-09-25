@@ -1,0 +1,9 @@
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\bin\Debug\ReadAllLineSample.exe.config
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\bin\Debug\ReadAllLineSample.exe
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\bin\Debug\ReadAllLineSample.pdb
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\obj\Debug\ReadAllLineSample.Form1.resources
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\obj\Debug\ReadAllLineSample.Properties.Resources.resources
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\obj\Debug\ReadAllLineSample.csproj.GenerateResource.Cache
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\obj\Debug\ReadAllLineSample.csproj.CoreCompileInputs.cache
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\obj\Debug\ReadAllLineSample.exe
+C:\VisualStudio\WriteAllLineSample\ReadAllLineSample\obj\Debug\ReadAllLineSample.pdb

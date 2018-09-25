@@ -1,0 +1,7 @@
+C:\VisualStudio\HackThon2追加\雞\bin\Debug\雞.exe.config
+C:\VisualStudio\HackThon2追加\雞\bin\Debug\雞.exe
+C:\VisualStudio\HackThon2追加\雞\bin\Debug\雞.pdb
+C:\VisualStudio\HackThon2追加\雞\obj\Debug\雞.csproj.CoreCompileInputs.cache
+C:\VisualStudio\HackThon2追加\雞\obj\Debug\雞.exe
+C:\VisualStudio\HackThon2追加\雞\obj\Debug\雞.pdb
+C:\VisualStudio\HackThon2追加\雞\obj\Debug\雞.csprojAssemblyReference.cache

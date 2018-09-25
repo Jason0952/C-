@@ -1,0 +1,7 @@
+C:\VisualStudio\HackThon2追加\質數問題\bin\Debug\質數問題.exe.config
+C:\VisualStudio\HackThon2追加\質數問題\bin\Debug\質數問題.exe
+C:\VisualStudio\HackThon2追加\質數問題\bin\Debug\質數問題.pdb
+C:\VisualStudio\HackThon2追加\質數問題\obj\Debug\質數問題.csproj.CoreCompileInputs.cache
+C:\VisualStudio\HackThon2追加\質數問題\obj\Debug\質數問題.exe
+C:\VisualStudio\HackThon2追加\質數問題\obj\Debug\質數問題.pdb
+C:\VisualStudio\HackThon2追加\質數問題\obj\Debug\質數問題.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\bin\Debug\ReadThanDisplay.exe.config
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\bin\Debug\ReadThanDisplay.exe
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\bin\Debug\ReadThanDisplay.pdb
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\obj\Debug\ReadThanDisplay.csprojResolveAssemblyReference.cache
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\obj\Debug\ReadThanDisplay.csproj.CoreCompileInputs.cache
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\obj\Debug\ReadThanDisplay.exe
+C:\VisualStudio\MyFirstSolution\ReadThanDisplay\obj\Debug\ReadThanDisplay.pdb
